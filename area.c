@@ -9,4 +9,5 @@ main()
 	
 	area=len*bre;
 	printf("\n area of rectangle=%d",area);
+	printf("welcome");
 }
