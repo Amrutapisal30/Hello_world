@@ -8,7 +8,7 @@ main()
 	scanf("%d",&bre);
 	
 	area=len*bre;
-	printf("sub add mul div  ");
+	printf("sub ");
 	printf("\n area of rectangle=%d",area);
 	printf("\n area of circle");
 
